@@ -45,11 +45,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jiudercashea&hide_border=true" />
+  <img alt="GitHub streak stats de jiudercashea" src="https://streak-stats.demolab.com/?user=jiudercashea&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiudercashea&hide_border=true&area=true&radius=8" />
+  <img alt="Contribuciones de jiudercashea en el último año" src="https://ghchart.rshah.org/jiudercashea" />
 </p>
 
 ### 📫 Let's connect
